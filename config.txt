@@ -1,0 +1,4 @@
+# config
+IP address of the Primary Server: IP_ADDRESS
+IP address of the Database Server: IP_ADDRESS
+IP address of the Jenkins Server: IP_ADDRESS
